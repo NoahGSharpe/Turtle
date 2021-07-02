@@ -3,6 +3,7 @@ import random
 
 shape("turtle")
 speed(0)
+bgcolor("black")  
 
 
 def tree(size=100, levels=4, angle=30):
